@@ -1,15 +1,17 @@
-# 🚀 Enhanced Download Button  
+# 📌 Enhanced Download Button  
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)  
 [![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blueviolet)](https://download-button-three.vercel.app/)  
 ![HTML](https://img.shields.io/badge/Made%20with-HTML-orange)  
 ![CSS](https://img.shields.io/badge/Styled%20with-CSS-purple)  
 ![JS](https://img.shields.io/badge/Powered%20by-JavaScript-yellow)  
 
+![Enhanced Download Button](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgX2NBmPPEOfYdnvpK1162qW1K9v6Ca5Zjk_peDbbkrp-jGWPjTsekps-fV7L2AeI1n2PyYXN67MhI6rJ9nm2HGwsYpqRTIrFOOZ_YUicyakHbS63_JASdoUFhHMCtctJ9_SnEhbaQwl2UrnPp7Nn5uYV-I56PzB8ka2qA5JYLiJ-OtlOjyDlcQXvGXFfE/s1600/download_button.png)
+
 🔗 **Live Demo:** [Download Button](https://download-button-three.vercel.app/)  
 
 ---
 
-## 📌 About  
+## ⭐ About  
 The **Enhanced Download Button** is a stylish, modern, and animated button designed for seamless file downloads. It features:  
 
 ✅ **Beautiful gradient animations** for an eye-catching UI.  
