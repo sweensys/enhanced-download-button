@@ -34,7 +34,7 @@ The **Enhanced Download Button** is a stylish, modern, and animated button desig
  ┣ 📄 LICENSE               # License file (GPL-3.0)
  ┣ 📄 README.md             # Documentation with setup & usage details
  ┣ 📄 vercel.json           # Vercel configuration file
- ┣ 📄 package.json          # Project metadata & scripts
+ ┗ 📄 package.json          # Project metadata & scripts
 ```
 
 ---
