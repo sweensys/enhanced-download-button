@@ -51,13 +51,13 @@ The **Enhanced Download Button** is a stylish, modern, and animated button desig
 - **Increments download count** upon each file download.  
 - Displays the counter in a **styled badge**.  
 
-### 🛠️ **Error Handling & Smooth User Experience**  
+### 🛑 **Error Handling & Smooth User Experience**  
 - If the download fails, the button shows **an error message**.  
 - Includes **retry logic** and resets automatically.  
 
 ---
 
-## 🛠️ Installation & Deployment  
+## ⚙️ Installation & Deployment  
 
 ### 1️⃣ Clone the Repository  
 ```sh
@@ -77,11 +77,11 @@ Then deploy your project:
 ```sh
 vercel
 ```
-💡 **Your project will be live instantly!**  
+🌐 **Your project will be live instantly!**  
 
 ---
 
-## 🎯 Usage Instructions  
+## 💡 Usage Instructions  
 
 1️⃣ **Open the webpage**: [Click Here](https://download-button-three.vercel.app/)  
 2️⃣ Click on the **Download Button**.  
@@ -91,7 +91,7 @@ vercel
 
 ---
 
-## 🔧 Customization  
+## 📝 Customization  
 
 ### 🎨 **Change Button Styles**  
 You can modify the styles in `index.html` inside the `<style>` section.  
@@ -103,8 +103,8 @@ For example, change the **gradient color**:
 }
 ```
 
-### 🔗 **Change Download Link**  
-Modify the **href** inside the JavaScript code in `index.html`:  
+### 📥 **Change Download Link**  
+🔗 Modify the **href** inside the JavaScript code in `index.html`:  
 ```js
 downloadLink.href = 'YOUR_FILE_DOWNLOAD_LINK_HERE';
 ```
@@ -123,12 +123,12 @@ Follow me for more amazing projects!
 
 ---
 
-## ⭐ Contributing  
+## 🏆 Contributing  
 
-💡 Contributions are welcome!  
+🤝 Contributions are welcome!  
 
-1️⃣ **Fork the repository**  
-2️⃣ **Make changes**  
-3️⃣ **Submit a pull request**  
+1️⃣ Fork the repository  
+2️⃣ Make changes  
+3️⃣ Submit a pull request  
 
-**Let's build something amazing together!**
+👥 Let's build something amazing together!
