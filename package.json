@@ -1,0 +1,19 @@
+{
+  "name": "download-button",
+  "version": "1.0.0",
+  "description": "A simple download button with enhanced UI and counter tracking",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s public",
+    "build": "echo 'No build step required'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
