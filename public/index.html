@@ -149,7 +149,7 @@
 
             const fetchCounter = async () => {
                 try {
-                    const response = await fetch('https://count.asifkamboh.com/api/get/post123/key1/');
+                    const response = await fetch('https://count.asifkamboh.com/api/get/443818932925873358/downloads/');
                     const data = await response.json();
                     return data.value.toLocaleString();
                 } catch (error) {
@@ -160,7 +160,7 @@
 
             const incrementCounter = async () => {
                 try {
-                    await fetch('https://count.asifkamboh.com/api/inc/post123/key1/');
+                    await fetch('https://count.asifkamboh.com/api/inc/443818932925873358/downloads/');
                 } catch (error) {
                     console.error('Error incrementing counter:', error);
                 }
