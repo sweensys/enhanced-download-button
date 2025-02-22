@@ -3,14 +3,14 @@
 [![Built with CSS](https://img.shields.io/badge/Built%20with-CSS-blue)](#)
 [![Built with JavaScript](https://img.shields.io/badge/Built%20with-JavaScript-yellow)](#)
 [![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
-[![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)](https://enhanced-download-button.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)](https://edb.asifkamboh.com/)
 [![Developer](https://img.shields.io/badge/Developer-Asif%20Kamboh-blue?style=flat)](https://www.asifkamboh.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsifKamboh-COM.download-button)](#)
 
 
 ![Enhanced Download Button](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgX2NBmPPEOfYdnvpK1162qW1K9v6Ca5Zjk_peDbbkrp-jGWPjTsekps-fV7L2AeI1n2PyYXN67MhI6rJ9nm2HGwsYpqRTIrFOOZ_YUicyakHbS63_JASdoUFhHMCtctJ9_SnEhbaQwl2UrnPp7Nn5uYV-I56PzB8ka2qA5JYLiJ-OtlOjyDlcQXvGXFfE/s1600/download_button.png)
 
-🔗 **Live Demo:** [Enhanced Download Button](https://enhanced-download-button.vercel.app/)  
+🔗 **Live Demo:** [Enhanced Download Button](https://edb.asifkamboh.com/)  
 
 ---
 
@@ -85,7 +85,7 @@ vercel
 
 ## 💡 Usage Instructions  
 
-1️⃣ **Open the webpage**: [Click Here](https://enhanced-download-button.vercel.app/)  
+1️⃣ **Open the webpage**: [Click Here](https://edb.asifkamboh.com/)  
 2️⃣ Click on the **Download Button**.  
 3️⃣ The **spinner** will appear while processing.  
 4️⃣ File starts downloading automatically.  
