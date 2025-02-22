@@ -1,9 +1,12 @@
 # 📌 Enhanced Download Button  
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)  
-[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blueviolet)](https://download-button-three.vercel.app/)  
-![HTML](https://img.shields.io/badge/Made%20with-HTML-orange)  
-![CSS](https://img.shields.io/badge/Styled%20with-CSS-purple)  
-![JS](https://img.shields.io/badge/Powered%20by-JavaScript-yellow)  
+[![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange)](#)
+[![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue)](#)
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)](#)
+[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
+[![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)](https://download-button-three.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-www.asifkamboh.com-blue?style=flat&logo=GoogleChrome)](https://www.asifkamboh.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsifKamboh-COM.download-button)](#)
+
 
 ![Enhanced Download Button](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgX2NBmPPEOfYdnvpK1162qW1K9v6Ca5Zjk_peDbbkrp-jGWPjTsekps-fV7L2AeI1n2PyYXN67MhI6rJ9nm2HGwsYpqRTIrFOOZ_YUicyakHbS63_JASdoUFhHMCtctJ9_SnEhbaQwl2UrnPp7Nn5uYV-I56PzB8ka2qA5JYLiJ-OtlOjyDlcQXvGXFfE/s1600/download_button.png)
 
@@ -25,11 +28,13 @@ The **Enhanced Download Button** is a stylish, modern, and animated button desig
 ## 📂 Folder Structure  
 
 ```
-/download-button
- ├── public/
- │   ├── index.html  # Main HTML file containing the download button
- ├── LICENSE         # License file (GPL-3.0)
- ├── README.md       # Documentation file (this file)
+📂 download-button/         # Root directory
+ ┣ 📂 public/               # Public folder for static files
+ ┃  ┗ 📄 index.html         # Main HTML file with the download button
+ ┣ 📄 LICENSE               # License file (GPL-3.0)
+ ┣ 📄 README.md             # Documentation with setup & usage details
+ ┣ 📄 vercel.json           # Vercel configuration file
+ ┣ 📄 package.json          # Project metadata & scripts
 ```
 
 ---
