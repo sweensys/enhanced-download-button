@@ -1,10 +1,10 @@
 # 📌 Enhanced Download Button  
-[![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange)](#)
-[![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue)](#)
-[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)](#)
+[![Built with HTML](https://img.shields.io/badge/Built%20with-HTML-orange)](#)
+[![Built with CSS](https://img.shields.io/badge/Built%20with-CSS-blue)](#)
+[![Built with JavaScript](https://img.shields.io/badge/Built%20with-JavaScript-yellow)](#)
 [![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
 [![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)](https://download-button-three.vercel.app/)
-[![Website](https://img.shields.io/badge/Website-www.asifkamboh.com-blue?style=flat&logo=GoogleChrome)](https://www.asifkamboh.com)
+[![Developer](https://img.shields.io/badge/Developer-Asif%20Kamboh-blue?style=flat)](https://www.asifkamboh.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsifKamboh-COM.download-button)](#)
 
 
@@ -81,7 +81,7 @@ vercel
 
 ---
 
-## 🚀 Usage Instructions  
+## 🎯 Usage Instructions  
 
 1️⃣ **Open the webpage**: [Click Here](https://download-button-three.vercel.app/)  
 2️⃣ Click on the **Download Button**.  
@@ -118,9 +118,8 @@ See the full license details in the [LICENSE](./LICENSE) file.
 ---
 
 ## 👨‍💻 Author  
-
-Developed by **Asif Kamboh** 🚀  
-💡 Follow me for more amazing projects!  
+Developed with ❤️ by **Asif Kamboh** 😎  
+Follow me for more amazing projects! 
 
 ---
 
@@ -132,4 +131,4 @@ Developed by **Asif Kamboh** 🚀
 2️⃣ **Make changes**  
 3️⃣ **Submit a pull request**  
 
-🚀 **Let's build something amazing together!**
+**Let's build something amazing together!**
