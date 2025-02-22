@@ -15,7 +15,8 @@
 ---
 
 ## ⭐ About  
-The **Enhanced Download Button** is a stylish, modern, and animated button designed for seamless file downloads. It features:  
+The **Enhanced Download Button** is a stylish, modern, and animated button designed for seamless file downloads.  
+It features:  
 
 ✅ **Beautiful gradient animations** for an eye-catching UI.  
 ✅ **Download counter** that updates dynamically using an external API.  
